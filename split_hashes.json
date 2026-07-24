@@ -1,0 +1,9 @@
+{
+  "benchmark_1428_md5": "e3b0c44298fc1c149afbf4c8996fb924",
+  "clinical_215_md5": "8023e9d7d1101e4e2229202357731a57",
+  "lodo_splits": {
+    "tesla_heldout_hash": "25211904a0e0a58e388c4268e64c3986",
+    "nepdb_heldout_hash": "7df88e22896f6424e4d6d6c97a5a8e02",
+    "iedb_heldout_hash": "6b75ee38f8303f20f6631899124a91a9"
+  }
+}
