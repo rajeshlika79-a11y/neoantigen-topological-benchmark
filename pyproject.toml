@@ -1,9 +1,6 @@
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "neoantigen-topological-benchmark"
 version = "0.1.0"
-description = "A benchmark for neoantigen topological analysis"
+description = "A concise, one-line summary of your project." # This appears as the "Summary" on PyPI
+readme = "README(1).md" # This tells PyPI to use your README file for the long description
 requires-python = ">=3.7"
